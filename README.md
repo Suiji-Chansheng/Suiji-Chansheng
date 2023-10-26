@@ -1,5 +1,7 @@
-### Hi there 👋
+<a href="https://passer-by.com/" target="_black"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Suiji-Chansheng&show_icons=true&count_private=false&theme=vue-dark" /></a>
 
+### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suiji-Chansheng)](https://github.com/Suiji-Chansheng/github-readme-stats)
 <!--
 **Suiji-Chansheng/Suiji-Chansheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
