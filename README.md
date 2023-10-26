@@ -1,4 +1,4 @@
-<a href="https://passer-by.com/" target="_black"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Suiji-Chansheng&show_icons=true&count_private=false&theme=vue-dark" /></a>
+<a href="" target="_black"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Suiji-Chansheng&show_icons=true&count_private=false&theme=vue-dark" /></a>
 
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suiji-Chansheng)](https://github.com/Suiji-Chansheng/github-readme-stats)
